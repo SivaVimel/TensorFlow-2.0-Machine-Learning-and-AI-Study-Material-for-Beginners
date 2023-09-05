@@ -1,5 +1,3 @@
-Certainly! Here's the text with special symbols and formatting to make it visually appealing:
-
 # **TensorFlow 2.0 Machine Learning and AI Tutorial Course**
 
 Welcome to the **TensorFlow 2.0 Machine Learning and Artificial Intelligence Tutorial Course!** 🚀 This comprehensive course is designed for Python programmers looking to enhance their knowledge and skills in the exciting fields of machine learning and artificial intelligence. Whether you're a beginner or have some experience, these **8 modules** will equip you with the essential tools and knowledge to excel in these domains.
